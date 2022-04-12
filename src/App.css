@@ -1,0 +1,46 @@
+body{
+    background-color: #969696;
+    margin: 15px;
+}
+
+.card-header, .card-footer{
+    background-color: #0b0338;
+    color: whitesmoke;
+    height : 10vh
+}
+
+.bodyColorContainner{
+    width: 600px;
+    height: 300px;
+}
+.line{
+    font-size: 30px;
+    font-family: cursive;
+    text-align: center;
+    padding-top: 1%
+}
+
+.lightbtn {
+    font-size: 35px;
+    color: #000;
+    background-color: white ;
+    margin-left: 5%;
+    border: 5px solid #0b0338;
+}
+
+.darkbtn {
+    font-size: 35px;
+    color: white;
+    background-color: rgb(0, 0, 0) ;
+    margin-left: 35%;
+    border: 5px solid #969696;
+}
+
+.div_bg{
+    height: 80vh;
+}
+
+
+
+
+
